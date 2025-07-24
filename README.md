@@ -12,23 +12,31 @@ O objetivo é **registrar meu crescimento, inspirar outros iniciantes e construi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 📌 **HTML & CSS**
-- [Desafio Página com 4 Vídeos](https://github.com/RoniJrr/Desafio-HTML5-e-CSS3-)
+- [Desafio Página com 4 Vídeos](https://github.com/RoniJrr/Desafio-HTML5-e-CSS3-) ![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
+
 
 📌 **JavaScript**
 - Em breve...
 
 📌 **Python**
 - [Exercícios de Lógica](https://github.com/RoniJrr/Exercicios-Python)
-- [POO na Prática](https://github.com/SEU-USUARIO/POO-Python)
+- [POO na Prática](https://github.com/SEU-USUARIO/POO-Python) ![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
+
 
 📌 **Projetos Fullstack**
-- [Sistema de Cadastro de Veículos](https://github.com/RoniJrr/Revenda-Veiculos)
+- [Sistema de Cadastro de Veículos](https://github.com/RoniJrr/Revenda-Veiculos) ![Status](https://img.shields.io/badge/STATUS-PAUSADO-red?style=for-the-badge)
+
 
 ---
 
