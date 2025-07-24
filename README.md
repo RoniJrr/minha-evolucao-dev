@@ -28,7 +28,7 @@ O objetivo é **registrar meu crescimento, inspirar outros iniciantes e construi
 - [POO na Prática](https://github.com/SEU-USUARIO/POO-Python)
 
 📌 **Projetos Fullstack**
-- [Sistema de Cadastro de Veículos](https://github.com/SEU-USUARIO/Revenda-Veiculos)
+- [Sistema de Cadastro de Veículos](https://github.com/RoniJrr/Revenda-Veiculos)
 
 ---
 
